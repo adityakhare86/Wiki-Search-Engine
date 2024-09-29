@@ -1,5 +1,5 @@
 # WikiPedia-Search-Engine
-Search  engine for entire wikipedia corpus made as minor project in course taken in semester 3, Information Retrieval and Extraction course at IIIT Hyderabad.
+Search  engine for entire wikipedia corpus made as minor project in course taken in semester 3, Information Retrieval and Extraction course at IIIT Naya Raipur.
 
 ## Utility
 * WikiIndexer.py- parses wikipedia dump and makes inverted index
